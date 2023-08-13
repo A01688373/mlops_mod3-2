@@ -1,4 +1,4 @@
-# Entregable: Notebook Jupiter
+# Deliverable: Notebook Jupiter
 
 Instructor: Carlos Mejia
 Student: Gabriela Sánchez
