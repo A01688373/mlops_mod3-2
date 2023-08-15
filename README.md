@@ -1,7 +1,7 @@
 # Deliverable: Notebook Jupiter
 
-Instructor: Carlos Mejia
-Student: Gabriela Sánchez
+### Instructor: Carlos Mejia
+### Student: Gabriela Sánchez
 
 This deliverable consists of having a Jupyter Notebook that contains at least the following sections, which are necessary for the following sections of the subject:
 
